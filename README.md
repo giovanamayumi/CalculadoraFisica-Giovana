@@ -9,6 +9,10 @@ Altura: 30,0 m acima do solo.
 Gravidade: 9,8 m/s².  
 Funcionalidade de Ângulo (Diferencial).
 
+Preview da interface:
+![Legenda da Imagem](<img width="394" height="438" alt="Captura de tela 2026-05-05 220052" src="https://github.com/user-attachments/assets/efac655f-f74d-4d1b-a35f-6eacbaadd1ad" />
+)
+
 - Funcionalidades do Software:
 
 Interface Gráfica: Campos intuitivos para entrada de dados.
