@@ -10,7 +10,7 @@ Gravidade: 9,8 m/s².
 Funcionalidade de Ângulo (Diferencial).
 
 Preview da interface:
-![Legenda da Imagem](<img width="394" height="438" alt="Captura de tela 2026-05-05 220052" src="https://github.com/user-attachments/assets/efac655f-f74d-4d1b-a35f-6eacbaadd1ad" />
+![Interface da Calculadora](<img width="394" height="438" alt="Captura de tela 2026-05-05 220052" src="https://github.com/user-attachments/assets/078d22ed-0f23-4fab-ad09-9a1c2b259c51" />
 )
 
 - Funcionalidades do Software:
