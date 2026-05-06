@@ -12,5 +12,7 @@ Funcionalidade de Ângulo (Diferencial).
 - Funcionalidades do Software:
 
 Interface Gráfica: Campos intuitivos para entrada de dados.
+
 Tratamento de Erros: Mensagens de alerta caso o usuário insira valores inválidos ou deixe campos vazios.
+
 Botões Obrigatórios: Funções de Calcular e Reset totalmente operacionais.
