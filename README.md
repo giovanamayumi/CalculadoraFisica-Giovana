@@ -1,7 +1,8 @@
 # CalculadoraFisica-Giovana
-Calculadora Java para Exercício de Física (Lançamento Oblíquo e Vertical)
-Uma calculadora avançada desenvolvida em Java com interface gráfica (Swing/JFrame) para resolver problemas de cinemática e balística.
-Este programa foi projetado para resolver o problema de um objeto lançado de um edifício, permitindo simular desde uma queda vertical pura até um lançamento horizontal.
+Calculadora Java(Lançamento Oblíquo e Vertical)
+
+A calculadora foi desenvolvida em Java com interface gráfica (Swing/JFrame) para resolver problemas de cinemática e balística.
+O programa foi projetado para resolver o problema de um objeto lançado de um edifício, permitindo simular desde uma queda vertical pura até um lançamento horizontal.
 - O Problema Base
 O sistema utiliza os dados do exercício:  
 Velocidade Inicial: 12,0 m/s.  
